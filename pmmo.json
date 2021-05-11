@@ -1,7 +1,7 @@
 {
 	"objs":
 	{
-		"latestVersion1.16": "3.55.1",
-		"latestMessage1.16": "Potential loading world crash fix"
+		"latestVersion1.16": "3.56",
+		"latestMessage1.16": "New JType! `xp_multiplier_entity`\nYou can now specify which of the 3 combat skills get what multiplier to the xp gain of fighting a specific entity"
 	}
 }
