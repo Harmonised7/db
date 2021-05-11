@@ -1,21 +1,14 @@
 {
-    "strings":
-    {
-        "latestVersion": "3.54.1"
-    },
-    "doubles":
-    {
-    },
-    "longs":
-    {
-    },
-    "maps":
-    {
-
-    },
-    "motd":
-    [
-        "You Matter!",
-        "Don't Give Up!"
-    ]
+	"strings":
+	{
+		"latestVersion1.16": "3.55.1",
+		"latestMessage1.16": "Potential loading world crash fix"
+	},
+	"doubles": {},
+	"longs": {},
+	"maps": {},
+	"motd": [
+		"You Matter!",
+		"Don't Give Up!"
+	]
 }
