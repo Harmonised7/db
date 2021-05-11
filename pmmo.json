@@ -17,5 +17,18 @@
     [
         "You Matter!",
         "Don't Give Up!"
-    ]
+    ],
+    "objs":
+    {
+        "test":
+        [
+            "a",
+            "b",
+            3
+        ],
+        "test2":
+        {
+            "c": 7
+        }
+    }
 }
