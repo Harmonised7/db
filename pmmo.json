@@ -1,34 +1,6 @@
 {
-    "strings":
-    {
-        "latestVersion": "3.54.1"
-    },
-    "doubles":
-    {
-    },
-    "longs":
-    {
-    },
-    "maps":
-    {
-
-    },
-    "motd":
-    [
-        "You Matter!",
-        "Don't Give Up!"
-    ],
     "objs":
     {
-        "test":
-        [
-            "a",
-            "b",
-            3
-        ],
-        "test2":
-        {
-            "c": 7
-        }
+        "latestVersion": "3.54.1"
     }
 }
