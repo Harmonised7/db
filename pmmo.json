@@ -1,7 +1,7 @@
 {
 	"objs":
 	{
-		"latestVersion1.16": "3.57",
-		"latestMessage1.16": "Level Up Fireworks now have text!\n\nreq_entity_interact is now available!"
+		"latestVersion1.16": "3.57.1",
+		"latestMessage1.16": "-Removed a several debug messages\n-Some dust still had extraChance values by default, not anymore. (Config regen of `info_ore.json` is required if you'd like to be affected by this)"
 	}
 }
