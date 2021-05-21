@@ -1,7 +1,7 @@
 {
 	"objs":
 	{
-		"latestVersion1.16": "3.57.1",
-		"latestMessage1.16": "-Removed a several debug messages\n-Some dust still had extraChance values by default, not anymore. (Config regen of `info_ore.json` is required if you'd like to be affected by this)"
+		"latestVersion1.16": "3.57.2",
+		"latestMessage1.16": "-Random archery req on weapons fix\n-Forge update to latest\n-FTBQ integration update to latest Alpha"
 	}
 }
