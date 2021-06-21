@@ -1,7 +1,7 @@
 {
 	"objs":
 	{
-		"latestVersion1.16": "3.58.3",
-		"latestMessage1.16": "A mapping function used throughout pmmo can no longer divide by 0."
+		"latestVersion1.16": "3.59",
+		"latestMessage1.16": "-Fixed Fishing Pool chance\n-Fixed FTBQ Skill Task completing at any level\n\n-New Config `defaultTamingXpFarming` that allows \ndefault Taming caused xp to go to Farming (default false)\n\n-Fishing Pool GUI has more info"
 	}
 }
