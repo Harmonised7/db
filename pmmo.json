@@ -1,7 +1,9 @@
 {
 	"objs":
 	{
-		"latestVersion1.16": "3.61",
-		"latestMessage1.16": ""
+		"latestVersion1.16": "3.67",
+		"latestMessage1.16": "",
+		"latestVersion1.18": "3.67",
+		"latestMessage1.18": ""
 	}
 }
